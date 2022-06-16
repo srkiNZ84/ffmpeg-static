@@ -111,6 +111,12 @@ download \
 download \
   "x265_2.7.tar.gz" \
   "" \
+  "nil" \
+  "http://ftp.videolan.org/pub/videolan/x265/"
+
+download \
+  "x265_2.7.tar.gz" \
+  "" \
   "b0d7d20da2a418fa4f53a559946ea079" \
   "http://download.openpkg.org/components/cache/x265/"
 
@@ -176,9 +182,9 @@ download \
   "https://github.com/georgmartius/vid.stab/archive/"
 
 download \
-  "release-2.7.4.tar.gz" \
-  "zimg-release-2.7.4.tar.gz" \
-  "1757dcc11590ef3b5a56c701fd286345" \
+  "release-3.0.tar.gz" \
+  "zimg-release-3.0.tar.gz" \
+  "adf4ca0a37be8c728327afeead03f5f8" \
   "https://github.com/sekrit-twc/zimg/archive/"
 
 download \
